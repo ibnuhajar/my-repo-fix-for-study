@@ -4,5 +4,5 @@ const HelloComponent = () =>{
     return <p>ibnu hajar</p>;
 }
 
-export default HelloComponent
+export default HelloComponent;
 
