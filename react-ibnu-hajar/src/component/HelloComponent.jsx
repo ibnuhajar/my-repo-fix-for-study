@@ -2,7 +2,7 @@ import React from 'react';
 import './HelloComponent.css';
 
 const HelloComponent = () => {
-    return <p class="text-p">ibnu hajar</p>;
+    return <h1 className="text-p">ibnu</h1>
 }
 
 export default HelloComponent;
